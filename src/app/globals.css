@@ -27,14 +27,6 @@ body {
   transition-duration: 0.2s;
 }
 
-@layer base {
-  h1 {
-    font-size: 2rem;
-    font-weight: 400;
-    line-height: 1.5;
-  }
-}
-
 @keyframes fade-in {
   from {
     opacity: 0;

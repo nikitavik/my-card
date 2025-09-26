@@ -7,7 +7,7 @@ export default function Home() {
       <div
         className="bg-whiste/90 backdrop-blur-sm border border-gray-300/50 rounded-lg p-8 shadow-2xl shadow-black/5"
       >
-        <h1 className="mb-2">Nikita Kornilov</h1>
+        <h1 className="mb-2 text-4xl text-black">Nikita Kornilov</h1>
 
         <EmailLink />
 
