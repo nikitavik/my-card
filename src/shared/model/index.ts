@@ -1,1 +1,1 @@
-export * from './socail-link-model';
+export * from "./socail-link-model";

@@ -1,2 +1,2 @@
-export * from './ui/social-list';
-export * from './constants';
+export * from "./ui/social-list";
+export * from "./constants";
